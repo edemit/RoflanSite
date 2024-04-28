@@ -82,3 +82,37 @@
     margin-left: 10px;
     font-size: 18px;
 }
+
+.content {
+    background-color: #fcd823;
+}
+
+.content__wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0;
+}
+
+.content__item {
+    max-width: 300px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 3px solid #000000;
+    border-radius: 10px;
+}
+
+.content__img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.content__title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.content__text {
+    font-size: 16px;
+}
