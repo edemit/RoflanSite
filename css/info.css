@@ -1,4 +1,38 @@
+.heading {
+  text-align: center;
+  margin: 20px 0;
+  font-size: 36px;
+}
+
+.people__text {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
 .people__cards {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.people__card {
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #000000;
+  border-radius: 5px;
+}
+
+.people__card img {
+  margin: 10px 0;
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.people__card-name {
+  margin: 10px 0;
+  font-size: 24px;
 }
