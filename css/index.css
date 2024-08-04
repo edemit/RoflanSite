@@ -1,7 +1,7 @@
 
 
 .slider {
-    background-image: url(../img/index/roflanface.jpg);
+    background-image: url(../img/index/catsMiau.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,7 +12,7 @@
 }
 
 .welcome-block {
-    padding: 50px;
+    padding: 25px;
     max-width: 600px;
     background-color: #ffffff;
     border: 3px solid #000000;
@@ -22,7 +22,7 @@
 .welcome-block__title {
     font-size: 32px;
     font-weight: bold;
-    color:#e70000;
+    color:#FCA311;
 }
 
 .welcome-block__subtitle, .welcome-block__text {
